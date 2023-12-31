@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on android app development projects with flutter, jetpack compose
-- 📫 How to reach me ...
+- 📫 How to reach me: Email me at gideonotieno99@gmail.com
 
 <!---
 gideonbruce/gideonbruce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
