@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gideon Bruce
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on android app development projects with flutter, jetpack compose
+- 👋 Hi, I’m Gideon 
+- 👀 I’m interested in BackendEnd Software Development
+- 🌱 I’m currently learning Goland and Web servers
+- 💞️ I’m looking to collaborate on backend development projects with Go, Node, JavaScript and databases, especially Postgres
 - 📫 How to reach me: Email me at gideonotieno99@gmail.com
 
 <!---
