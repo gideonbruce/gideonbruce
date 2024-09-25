@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gideon 
 - 👀 I’m interested in BackendEnd Software Development
-- 🌱 I’m currently learning Goland and Web servers
+- 🌱 I’m currently learning Golang and Web servers
 - 💞️ I’m looking to collaborate on backend development projects with Go, Node, JavaScript and databases, especially Postgres
 - 📫 How to reach me: Email me at gideonotieno99@gmail.com
 
